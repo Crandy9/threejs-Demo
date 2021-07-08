@@ -1,4 +1,4 @@
-# threejs-Demo
+# threejs-Demo (save src folder to desktop and then open index.html to launch in your browser)
 A cool demo of using three.js library
 ![Screenshot (195)](https://user-images.githubusercontent.com/65151794/124853316-a347eb80-dfe0-11eb-9872-07073515d217.png)
 ![Screenshot (196)](https://user-images.githubusercontent.com/65151794/124853320-a4791880-dfe0-11eb-89b7-a8c0d9efce93.png)
